@@ -1,0 +1,22 @@
+***git init = cria a pasta oculta do git
+
+*** depois cria o repositario no github no site
+-vai em repositorios e clica em new
+-da um nome
+-coloca em https e copia o endereço
+
+***ai digita 
+--git remote add origin 
+e cola o nome da origem
+
+*** digita o no git- 
+--git add--all 
+- tudo que foi alterado removido ou adicionado seja adicionado no station area do git
+
+*** ai coloca um comentario no rotulo sobre oque foi feito
+--git commit -m "iniciamos o projeto"
+
+** ai empura no reposito da nuvem atras do comando =
+--git push origin master
+
+**toda a vez que for iditado o codigo é preciso fazer o git add e o git commit
